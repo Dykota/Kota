@@ -1,0 +1,10 @@
+{
+"firstName":"Dykota",
+"lastName":"Baker",
+"displayaHandle":"Dykota",
+
+"posts":[ "Hello World", "I'm tired", "I'm hungry" ],
+
+"age":19,
+"active":true,
+}
