@@ -1,0 +1,58 @@
+{
+	"name": [
+		"Dykota",
+		"Kevin",
+		"Alex",
+		"Kenzi",
+		"Kthulu",
+		"Aaron"
+	],
+	"occupation": [
+		"graphic designer",
+		"developer",
+		"producer",
+		"manager",
+		"actor",
+		"rapper"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# #greatness#. #now#, he #managed# #meet# his expectations."
+	],
+	"always": [
+		"always",
+		"never",
+		"rarely",
+		"often",
+		"sometimes",
+		"usually"
+	],
+	"expecting": [
+		"expecting",
+		"imagining",
+		"anticipating",
+		"hoping for",
+		"predicting",
+		"awating"
+	],
+	"greatness": [
+		"fame and fortune",
+		"greatness"
+	],
+	"meet": [
+		"meet",
+		"surpass",
+		"barely reach"
+	],
+	"managed": [
+		"managed to",
+		"couldn't",
+		"could never",
+		"was able to"
+	],
+	"now": [
+		"Now",
+		"After all",
+		"In the end",
+		"At the end of the day"
+	]
+}
